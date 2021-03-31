@@ -4,4 +4,3 @@ def addCheck(x, y, z):
     else:
         return "false"
 
-print(addCheck(1, 2, 4))
